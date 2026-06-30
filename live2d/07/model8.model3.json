@@ -7,7 +7,7 @@
 		],
 		"Physics": "model8.physics3.json",
 		"Motions": {
-			"": [
+			"Idle": [
 				{
 					"File": "8.motion3.json"
 				}
