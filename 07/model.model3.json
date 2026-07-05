@@ -1,13 +1,11 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "model.moc3",
-		"Textures": [
-			"model.2048/texture_00.png"
-		],
-		"Physics": "model.physics3.json",
-                "Motions": { "Idle": [ { "File": "motion.motion3.json" } ] }
-                },
+		"Moc"     : "model.moc3",
+		"Textures": "model.2048/texture_00.png",
+		"Physics" : "model.physics3.json",
+        "Motions" : { "Idle":"File": "motion.motion3.json" }
+                   },
 	"Groups": [
 		{
 			"Target": "Parameter",
