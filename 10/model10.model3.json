@@ -2,7 +2,9 @@
 	"Version": 3,
 	"FileReferences": {
 		"Moc": "model10.moc3",
-		"Textures": "model10.1024/texture_00.png",
+		"Textures": [
+			"model10.1024/texture_00.png"
+		],
 		"Physics" : "model10.physics3.json",
                 "Motions" : { "Idle": [ { "File": "10.motion3.json" } ] }
 	},
