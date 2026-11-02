@@ -1,11 +1,10 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "11.moc3",
-		"Textures": [
-			"11.1024/texture_00.png"
-		],
-		"Physics": "11.physics3.json"
+		"Moc"     : "11.moc3",
+		"Textures": "11.1024/texture_00.png",
+		"Physics" : "11.physics3.json",
+                "Motions" : { "Idle": [ { "File": "11.motion3.json" } ] }
 	},
 	"Groups": [
 		{
